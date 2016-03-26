@@ -1,0 +1,4 @@
+.DS_Store
+vendor/*
+example/handler_output/*
+composer.lock

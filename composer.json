@@ -1,0 +1,18 @@
+{
+    "name": "miguelsaddress/pesy",
+    "description": "Pesy: PHP Event System",
+    "authors": [
+        {
+            "name": "Miguel Angel Moreno",
+            "email": "miguel.s.address@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mamoreno\\Pesy\\": ["src/Pesy", "src/test"]
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.6.6"
+    }
+}
